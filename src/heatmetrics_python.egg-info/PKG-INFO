@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: heatmetrics_python
+Version: 0.0.26
+Summary: Provides functions to calculate the heat metrics
+Author-email: Jinjie Liu <liujinjie26@gmail.com>
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/Climate-CAFE/heatmetrics_python
+Project-URL: Issues, https://github.com/Climate-CAFE/heatmetrics_python/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# heatmetrics Python Package
+
+This Python package provides functions to calculate the following heat metrics: (1) Wet-Bulb Globe Temperature (WBGT), (2) Universal Thermal Climate Index (UTCI), (3) Dewpoint Temperature, (4) Net Effective Temperature, and (5) Humidex. The WBGT function follows the Liljegren et al. (2008) approach. The WBGT function and functions therein were translated from the heatmetrics R package (2022) to Python.
+
+This package is provided "as-is," with no warranty whatsoever.
+
+
+
+
+
+
+
