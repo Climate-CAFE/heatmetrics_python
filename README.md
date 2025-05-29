@@ -4,7 +4,17 @@ This Python package provides functions to calculate the following heat metrics: 
 
 This package is provided "as-is," with no warranty whatsoever.
 
+# Installation
+```
+pip install -i https://test.pypi.org/simple/ heatmetrics-python==0.0.26
+```
 
+# Usage
+```
+from heatmetrics_python import wbgt
+
+wbgt.wbgt(2020, 7, 4.5, 42.36, -71.06, 700, 0.5, 0.5, 1013, 30, 60, 2, 10, -0.052, 1)
+```
 
 
 
